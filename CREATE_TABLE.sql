@@ -1,3 +1,4 @@
+--c4e
 USE SALES_COMPANY;
 CREATE TABLE sale_product(
 product VARCHAR(20),
