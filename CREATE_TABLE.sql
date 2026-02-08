@@ -1,4 +1,4 @@
---c4
+--08/02/2026
 USE SALES_COMPANY;
 CREATE TABLE sale_product(
 product VARCHAR(20),
