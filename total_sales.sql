@@ -8,6 +8,6 @@ sales INT
 );
 SELECT * FROM sale_product;
 -- total sales
-
+--AND
 SELECT SUM(sales) AS Total_sales
 FROM sale_product;
