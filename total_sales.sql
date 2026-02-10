@@ -9,5 +9,6 @@ sales INT
 SELECT * FROM sale_product;
 -- total sales
 --AND
+-- radhe
 SELECT SUM(sales) AS Total_sales
 FROM sale_product;
