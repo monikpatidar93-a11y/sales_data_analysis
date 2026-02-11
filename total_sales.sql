@@ -10,5 +10,6 @@ SELECT * FROM sale_product;
 -- total sales
 --AND
 -- radhe
+-- 11/02/2025
 SELECT SUM(sales) AS Total_sales
 FROM sale_product;
